@@ -1,0 +1,13 @@
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\bin\Debug\netcoreapp3.1\ExpressionWithLinq.exe
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\bin\Debug\netcoreapp3.1\ExpressionWithLinq.deps.json
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\bin\Debug\netcoreapp3.1\ExpressionWithLinq.runtimeconfig.json
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\bin\Debug\netcoreapp3.1\ExpressionWithLinq.runtimeconfig.dev.json
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\bin\Debug\netcoreapp3.1\ExpressionWithLinq.dll
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\bin\Debug\netcoreapp3.1\ExpressionWithLinq.pdb
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.csprojAssemblyReference.cache
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.AssemblyInfoInputs.cache
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.AssemblyInfo.cs
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.dll
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.pdb
+C:\Users\deand\Desktop\ExpressionWithLinq\ExpressionWithLinq\obj\Debug\netcoreapp3.1\ExpressionWithLinq.genruntimeconfig.cache
